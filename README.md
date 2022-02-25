@@ -3,7 +3,7 @@
 
 Sample implementation of the **Clean Architecture Principles with .NET Core**. Use cases as central organizing structure, decoupled from frameworks and technology details. Built by small components that are developed and tested in isolation.
 
-We support two versions:
+We support three versions:
 
 - [.NET 6](https://github.com/ivanpaulovich/clean-architecture-manga/tree/main) - .NET 6.
 - [.NET 5](https://github.com/ivanpaulovich/clean-architecture-manga/tree/dotnet5.0) - .NET 5.
